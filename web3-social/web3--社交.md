@@ -17,3 +17,6 @@
 >>Youtube 就是典型的例子。最开始它是对个人创作者非常友好的一个地方，而现在的 Youtube 完全不是。现在 Youtube 内容重视大广告商的诉求。因为他们才是金主。新人在平台上获客冷启动非常难。现在一个普通人上万人订阅的油管频道要费很大力气，而以前完全不是这样
 >
 >所以 Web 3 最主要的改变是通过一些基建以及基建其中数学设计来保证博弈动态的实现。
+
+[Build a Social Media dApp & Deploy it on Polygon](https://learn.figment.io/tutorials/build-a-social-media-dapp-and-deploy-it-on-polygon#introduction)
+>[akhileshthite/dtube](https://github.com/AkhileshThite/DTube)

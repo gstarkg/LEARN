@@ -18,5 +18,7 @@
 >
 >所以 Web 3 最主要的改变是通过一些基建以及基建其中数学设计来保证博弈动态的实现。
 
-[Build a Social Media dApp & Deploy it on Polygon](https://learn.figment.io/tutorials/build-a-social-media-dapp-and-deploy-it-on-polygon#introduction)
+[!!! Build a Social Media dApp & Deploy it on Polygon](https://learn.figment.io/tutorials/build-a-social-media-dapp-and-deploy-it-on-polygon#introduction)
 >[akhileshthite/dtube](https://github.com/AkhileshThite/DTube)
+
+[Building a Web3 Social Media DApp: JoinSpace – Like Reddit but on Web3](https://smartbuilds.io/building-a-web3-social-media-dapp-joinspace/#Conclusion)

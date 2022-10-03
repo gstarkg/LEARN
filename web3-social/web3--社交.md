@@ -24,3 +24,5 @@
 [Building a Web3 Social Media DApp: JoinSpace – Like Reddit but on Web3](https://smartbuilds.io/building-a-web3-social-media-dapp-joinspace/#Conclusion)
 
 [Sound.xyz解决音乐行业痛点，链接艺术家和粉丝新协议](https://allrecode.com/post/33271)
+
+[Writing Monks：创建去中心化媒体公司的工具](https://allrecode.com/post/33446)

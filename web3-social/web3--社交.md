@@ -26,3 +26,5 @@
 [Sound.xyz解决音乐行业痛点，链接艺术家和粉丝新协议](https://allrecode.com/post/33271)
 
 [Writing Monks：创建去中心化媒体公司的工具](https://allrecode.com/post/33446)
+
+[Web3 social：我们早到了还是很糟糕？](https://allrecode.com/post/33660)
